@@ -1,0 +1,16 @@
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.csproj.AssemblyReference.cache
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\bin\Debug\ArrayDataStruct.exe.config
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\bin\Debug\ArrayDataStruct.exe
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\bin\Debug\ArrayDataStruct.pdb
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.exe
+C:\Users\Dominik\source\repos\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.pdb
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\bin\Debug\ArrayDataStruct.exe.config
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\bin\Debug\ArrayDataStruct.exe
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\bin\Debug\ArrayDataStruct.pdb
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.csproj.AssemblyReference.cache
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.exe
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\ArrayDataStruct\ArrayDataStruct\obj\Debug\ArrayDataStruct.pdb

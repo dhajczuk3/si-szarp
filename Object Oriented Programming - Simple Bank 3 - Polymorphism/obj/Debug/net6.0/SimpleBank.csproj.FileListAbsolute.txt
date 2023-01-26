@@ -1,0 +1,30 @@
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.exe
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.deps.json
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.runtimeconfig.json
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.dll
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.pdb
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.csproj.AssemblyReference.cache
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.dll
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\refint\SimpleBank.dll
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.pdb
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.genruntimeconfig.cache
+C:\Users\Dominik\source\repos\SimpleBank\SimpleBank\obj\Debug\net6.0\ref\SimpleBank.dll
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.exe
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.deps.json
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.runtimeconfig.json
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.dll
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\bin\Debug\net6.0\SimpleBank.pdb
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.csproj.AssemblyReference.cache
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.dll
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\refint\SimpleBank.dll
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.pdb
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\SimpleBank.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive - New College Lanarkshire\repos 08.12\SimpleBank\SimpleBank\obj\Debug\net6.0\ref\SimpleBank.dll
